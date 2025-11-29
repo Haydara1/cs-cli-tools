@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CMatrix/CMatrix.csproj" />
+  <Project Path="GameOfLife/Conway's Game of Life.csproj" />
+</Solution>
