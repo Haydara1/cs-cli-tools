@@ -1,19 +1,34 @@
-# cs-cli-tools
+# 🧩 C# Projects 
 
-A collection of C# command-line applications, organized in a single solution for easy management, building, and reuse.  
-This repository contains multiple CLI projects, each implementing different tools or utilities.
+A collection of command-line projects written in C#, exploring programming, mathematics, algorithms, and computational experiments.
 
----
+## 🚀 Getting Started
 
-## 🔹 Features
+Make sure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
 
-- **Multiple CLI Projects in One Solution**  
-  Each project is self-contained but can share common code through the solution.
+Clone the repository:
 
-- **Supported Operations (Example Projects)**  
-  - Matrix operations (addition, multiplication, determinant, inversion, etc.)  
-  - File utilities (if implemented in future projects)  
-  - Crypto or math tools (expandable)  
+```bash
+git clone https://github.com/Haydara1/cs-cli-tools.git
+cd cs-cli-tools
+```
 
-- **Interactive Command-Line Interfaces**  
-  All projects are built using standard C# console applications, optionally enhanced with [Spectre.Console](https://spectreconsole.net/) for menus and prompts.
+Navigate to a project directory and run it:
+
+```bash
+cd ProjectName
+dotnet run
+```
+
+Replace `ProjectName` with the directory of the project you want to run.
+
+## 🛠️ Technologies
+
+- **💻 Language:** C#
+- **⚙️ Platform:** .NET
+- **🎨 Interface:** Command line, Raylib.cs
+
+## 🎯 Purpose
+
+This repository serves as a playground for exploring ideas, implementing algorithms, and translating mathematical concepts into code.
+
